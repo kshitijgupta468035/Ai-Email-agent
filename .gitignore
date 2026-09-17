@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Google/Gmail credentials
+credentials.json
+token.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local input/output files
+input/
+output/
+
+# Environment variables
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
